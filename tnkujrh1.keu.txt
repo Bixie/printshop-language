@@ -1,0 +1,72 @@
+﻿Merge branch 'master' into peterprint-malles
+Mooi!
+Conflicts:
+	administrator/language/nl-NL/nl-NL.com_bixprintshop.ini
+	administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo.ini
+	administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_invoice_default.ini
+	language/nl-NL/nl-NL.com_bixprintshop.ini
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch peterprint-malles
+# All conflicts fixed but you are still merging.
+#   (use "git commit" to conclude merge)
+#
+# Changes to be committed:
+#
+#	modified:   administrator/language/nl-NL/nl-NL.com_bixprintshop.ini
+#	new file:   administrator/language/nl-NL/nl-NL.mod_bps_stats.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_attrib_grammage.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_attrib_grammage.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_analytics_tracking.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_bix_ideal.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo_ideal.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo_paypal.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo_paypal.sys.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo_transfer.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_buckaroo_transfer.sys.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_invoice_default.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_tradetracker_tracking.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_tradetracker_tracking.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_drukkerij_groot.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_drukkerij_netzodruk.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_drukkerij_xgram.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_export_twinfield.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_import_brochures.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_import_enkelvoudig.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_import_offset.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_jscript_hesjescalc.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_jscript_verzamel.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_machine_uvprinter.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_machine_vaantjes.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_mail_feedback.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_mail_feedback.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_mail_order.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_mail_order.sys.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_order_bestandscontrole.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_order_bestandscontrole.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_vervoer_probo.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_multiorders.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_productmaataantal.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_productslides.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_svn.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_svn.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_ttekening.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_wrgave_ttekening.sys.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_user_bps_profile.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_user_bps_user_bbr.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_user_bps_user_svn.ini
+#	new file:   administrator/language/nl-NL/nl-NL.plg_user_bps_user_svn.sys.ini
+#	new file:   administrator/language/overrides/nl-NL.override.ini
+#	new file:   gnflc41n.01n.txt
+#	modified:   language/nl-NL/nl-NL.com_bixprintshop.ini
+#	new file:   language/nl-NL/nl-NL.mod_bps_aanbieding.ini
+#
+
