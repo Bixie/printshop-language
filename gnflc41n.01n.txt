@@ -1,0 +1,29 @@
+﻿Merge remote-tracking branch 'origin/dhn-live' into drukhetnu
+
+Conflicts:
+	administrator/language/nl-NL/nl-NL.com_bixprintshop.ini
+	administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_bix_ideal.ini
+	administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_invoice_default.ini
+	language/nl-NL/nl-NL.com_bixprintshop.ini
+	uit verkeerde branche. weer gemerged
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch drukhetnu
+# All conflicts fixed but you are still merging.
+#   (use "git commit" to conclude merge)
+#
+# Changes to be committed:
+#
+#	modified:   administrator/language/nl-NL/nl-NL.com_bixprintshop.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_bix_ideal.ini
+#	modified:   administrator/language/nl-NL/nl-NL.plg_bixprintshop_betaal_invoice_default.ini
+#	modified:   language/nl-NL/nl-NL.com_bixprintshop.ini
+#
+
